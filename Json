@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nom": "Perceuse Visseuse 18V PRO",
+    "image": "images/produits/produit-1-perceuse-18v.jpg",
+    "prix": "249 DT"
+  },
+  {
+    "id": 2,
+    "nom": "Marteau Manche Bois 16oz",
+    "image": "images/produits/produit-2-marteau-bois.jpg",
+    "prix": "35 DT"
+  }
+]
